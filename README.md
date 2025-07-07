@@ -76,7 +76,9 @@ Customization options and integrations (e.g., for LSP, nvim-cmp, etc.) are plann
 
 ## 📷 Preview
 
-> Coming soon – screenshots and side-by-side comparisons
+![2025-07-07-173558_hyprshot](https://github.com/user-attachments/assets/9e22c78d-e8f6-4f5f-859f-172503b3f01b)
+![2025-07-07-173547_hyprshot](https://github.com/user-attachments/assets/97cdd1df-6203-40e4-873e-a5f21e5fcfc6)
+
 
 ---
 
