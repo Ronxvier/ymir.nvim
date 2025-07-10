@@ -57,7 +57,7 @@ end
 
 M.load = function()
   if vim.fn.has("nvim-0.7") ~= 1 then
-    vim.notify("sunset.nvim: you must use neovim 0.7 or higher")
+    vim.notify("ymir.nvim: you must use neovim 0.7 or higher")
     return
   end
 
@@ -72,7 +72,7 @@ M.load = function()
 
   vim.o.background = "dark"
   vim.o.termguicolors = true
-  vim.g.colors_name = "sunset"
+  vim.g.colors_name = "ymir"
 
   apply(M.opts)
 end
