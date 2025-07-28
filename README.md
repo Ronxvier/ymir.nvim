@@ -34,7 +34,7 @@ A **Visual Studio Code** port is also in the works! Stay tuned.
 
 ```lua
 {
-  "RonelXavier/ymir.nvim",
+  "Ronxvier/ymir.nvim",
   lazy = false,
   priority = 1000,
   config = function()
@@ -47,7 +47,7 @@ A **Visual Studio Code** port is also in the works! Stay tuned.
 
 ```lua
 use({
-  "RonelXavier/ymir.nvim",
+  "Ronxvier/ymir.nvim",
   config = function()
     vim.cmd("colorscheme ymir")
   end,
