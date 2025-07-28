@@ -3,6 +3,7 @@
 
 > Currently in early development. Expect frequent updates and refinements.
 ---
+<img width="1017" height="571" alt="Screenshot 2025-07-28 at 6 59 53 PM" src="https://github.com/user-attachments/assets/fb953fd7-cac6-41d2-affa-98e3bf78bc13" />
 
 ## Features
 
