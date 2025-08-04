@@ -67,10 +67,8 @@ Customization options and integrations (e.g., for LSP, nvim-cmp, etc.) are plann
 
 * [x] Initial theme structure
 * [x] Plugin integrations (Lualine, Telescope, etc.)
-* [ ] Complete Treesitter support for major languages
-* [ ] nvim-cmp & Autocomplete support 
+* [x] Complete Treesitter support for major languages
 * [ ] Visual Studio Code port
-* [ ] Customizable options
 
 ---
 
